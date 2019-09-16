@@ -510,7 +510,6 @@ footer .col-md-1 img{width:22px;}
 .createAccountRow1 .techiprofile button, input, optgroup, select, textarea #project-detail{color:#999999;border:none;}
 .createAccountRow1 .form-group .workseeker input#project-detail{width:80%;}
 .createAccountRow1 .form-control{box-shadow:none;border-radius:2px;border:1px solid #c8c8c8;padding-left:10px;}
-.createAccountRow1 .techiProfileRow1 .dropdown{}
 .createAccountRow1 .techiProfileRow1 #dropdown-menu-relative{position:relative !important;}
 .createAccountRow1 .form-group .workseeker input span{float:right;}
 .createAccountRow1 .col-lg-8 textarea{height:auto !important;border:0;}
@@ -562,8 +561,6 @@ ul.profile{float:left;}
 .TechieColoRight .wpcf7-recaptcha{ transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0; float:right;width:232px;}
 .createAccountRow1 .form-group .submit-btn{ float:right;}
 .techiProfileRow1 .mandatoryText{font-size:12px;width:50%;float:right;color:#f67334;padding:25px 4% 0 0;text-align:right; position: absolute;right: 17px;}
-.signUpLeft{}
-.signUpLeft h1{}
 .signUpLeft .signup-profile ul{padding:0 0 10px 18px; margin:0;}
 .signUpLeft .signup-profile li{ list-style-type:disc;padding-top:8px;}
 .signUpLeft .signup-profile p{color:#ff8400; font-size:14px;}
