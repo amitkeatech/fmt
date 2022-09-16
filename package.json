@@ -18,7 +18,7 @@
   "dependencies": {
     "apollo-boost": "^0.4.4",
     "babel-preset-stage-1": "^6.1.18",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "font-awesome": "4.5.0",
     "graphql": "^14.5.3",
     "jquery": "1.12.4",
